@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Fabrizio
-- 👀 I’m interested in creative coding
+- 👋 Hi, I’m Fabrizio, education curator at MUST in Milan
+- 👀 I’m interested in Creative Coding and Digital Art
 - 🌱 I’m currently learning on Hydra and video synth
-- 💞️ I’m looking to collaborate on educational project
+- 💞️ I’m looking to collaborate on educational projects
 - 📫 How to reach me stavola@museoscienza.it
 
 <!---
